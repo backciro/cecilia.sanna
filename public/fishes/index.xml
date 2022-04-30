@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FISHES on Iconografa Cecilia Sanna</title>
+    <link>https://cecilia.sanna.minutti.it/fishes/</link>
+    <description>Recent content in FISHES on Iconografa Cecilia Sanna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-IT</language>
+    <managingEditor>cecilia.sanna@gmail.com (Cecilia Sanna)</managingEditor>
+    <webMaster>cecilia.sanna@gmail.com (Cecilia Sanna)</webMaster>
+    <lastBuildDate>Sat, 21 Dec 2019 12:11:50 -0600</lastBuildDate><atom:link href="https://cecilia.sanna.minutti.it/fishes/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
